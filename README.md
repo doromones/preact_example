@@ -1,3 +1,7 @@
+####
+npm run build
+
+
 # PreactProject
 
 ## CLI Commands
